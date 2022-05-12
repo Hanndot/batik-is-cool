@@ -1,0 +1,60 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-header {
+    font-size: larger;
+    display: flex;
+    float: right;
+}
+
+.home-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    margin-bottom: 10px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.add-item-card {
+    padding: 0 8em 1em 8em;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.submit-group {
+    padding: 10px 0 0 0;
+}
+
+.list-item-card {
+    padding: 1em 8em 1em 8em;
+}
+
+.item-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
